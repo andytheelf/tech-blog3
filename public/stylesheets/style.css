@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background: url(techimg.jpg);
+    background: url(game.jpg);
     opacity: .8;
     background-size: cover;
 }
@@ -296,6 +296,6 @@ footer a:hover {
     opacity: 100%;
 }
 
-ol {
+.ol li {
     text-decoration: none;
 }
